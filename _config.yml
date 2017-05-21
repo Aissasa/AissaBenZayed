@@ -13,7 +13,7 @@ name                     : "Aissa Ben Zayed"
 description              : "Personnel website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : Aissasa/AissaBenZayed    # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Aissasa/AissaBenZayed"    # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -80,27 +80,27 @@ author:
   name             : "Aissa Ben Zayed"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "480 North Orange Avenue, Orlando, FL, 32801"
   email            : "aissa.ben.zayed@gmail.com"
   uri              :
   bitbucket        : "https://bitbucket.org/aissasa/"
   codepen          :
   dribbble         :
   flickr           : 
-  facebook         : "https://www.facebook.com/issa.benzaied"
+  facebook         : "issa.benzaied"
   foursquare       :
-  github           : "https://github.com/Aissasa"
-  google_plus      : "https://plus.google.com/+AissaBenZayed"
+  github           : "Aissasa"
+  google_plus      : "+AissaBenZayed"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/aissabenzayed/"
+  linkedin         : "aissabenzayed"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "http://stackoverflow.com/users/3514727/aissasa"  # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "3514727/aissasa"  # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/AissaBZ"
+  twitter          : "AissaBZ"
   vine             :
   weibo            :
   xing             :
