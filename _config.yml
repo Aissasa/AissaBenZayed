@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Aissa's Realm"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Aissa Ben Zayed"
+description              : "Personnel website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : Aissasa/AissaBenZayed    # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : Aissa Ben Zayed # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "AissaBZ"
 facebook:
   username               :
   app_id                 :
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Aissa Ben Zayed"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
-  email            :
+  email            : "aissa.ben.zayed@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/aissasa/"
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : 
+  facebook         : "https://www.facebook.com/issa.benzaied"
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "https://github.com/Aissasa"
+  google_plus      : "https://plus.google.com/+AissaBenZayed"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/aissabenzayed/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "http://stackoverflow.com/users/3514727/aissasa"  # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/AissaBZ"
   vine             :
   weibo            :
   xing             :
